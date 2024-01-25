@@ -1,0 +1,90 @@
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Biblio.exe.config
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Biblio.exe
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Biblio.pdb
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\MySql.Data.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Google.Protobuf.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\ZstdNet.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Buffers.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\MySql.Data.xml
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.csprojResolveAssemblyReference.cache
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Properties.Resources.resources
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.csproj.GenerateResource.Cache
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.exe
+c:\users\william stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.pdb
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Memory.dll
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Google.Protobuf.pdb
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\Google.Protobuf.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Buffers.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Memory.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Authentification.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Home.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Admin.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Adherent.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Emprunt.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gerer_Adherents.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gerer_Emprunts.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Modifier_Supprimer_Adherent.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Supprimer_Emprunts.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Retour_Emprunt.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Biblio.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Livre.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gerer_Biblio.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gérer_Livres.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Modifier_Supprimer_Biblio.resources
+C:\Users\William Stone\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Modifier_Supprimer_Livre.resources
+C:\Users\William Stone\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Bibliothecaire.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Biblio.exe.config
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.exe
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.pdb
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Biblio.exe
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Biblio.pdb
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\BouncyCastle.Crypto.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Google.Protobuf.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Hash.xxHash.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\MySql.Data.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Buffers.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Memory.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Ubiety.Dns.Core.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\ZstdNet.dll
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Google.Protobuf.pdb
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\Google.Protobuf.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\K4os.Hash.xxHash.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\MySql.Data.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Buffers.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Memory.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.csprojResolveAssemblyReference.cache
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Admin.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Adherent.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Biblio.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Emprunt.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Ajouter_Livre.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Authentification.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Bibliothecaire.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Home.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gerer_Adherents.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gerer_Biblio.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gerer_Emprunts.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Gérer_Livres.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Modifier_Supprimer_Adherent.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Modifier_Supprimer_Biblio.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Modifier_Supprimer_Livre.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Retour_Emprunt.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Supprimer_Emprunts.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.Properties.Resources.resources
+E:\W_S\Documents\Visual Studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.csproj.GenerateResource.Cache
